@@ -1,0 +1,15 @@
+{
+  "name": "Grimms' Fairy Tales",
+  "short_name": "Grimm",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F6F4ED",
+  "theme_color": "#F6F4ED",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    }
+  ]
+}
