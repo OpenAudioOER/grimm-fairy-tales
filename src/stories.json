@@ -2,1046 +2,1966 @@
   {
     "id": "001",
     "title": "The Frog King, or Iron Henry",
-    "readingTime": 8
+    "readingTime": 8,
+    "tags": [
+      "Royalty",
+      "Animals",
+      "Nature/Forest"
+    ]
   },
   {
     "id": "002",
     "title": "Our Lady's Child",
-    "readingTime": 10
+    "readingTime": 10,
+    "tags": [
+      "Royalty",
+      "Nature/Forest",
+      "Dark/Macabre"
+    ]
   },
   {
     "id": "003",
     "title": "The Story of a Youth Who Went Forth to Learn What Fear Was",
-    "readingTime": 19
+    "readingTime": 19,
+    "tags": [
+      "Royalty",
+      "Romance",
+      "Wealth"
+    ]
   },
   {
     "id": "004",
     "title": "The Wolf and the Seven Little Kids",
-    "readingTime": 6
+    "readingTime": 6,
+    "tags": [
+      "Animals",
+      "Nature/Forest",
+      "Poverty"
+    ]
   },
   {
     "id": "005",
     "title": "Faithful John",
-    "readingTime": 16
+    "readingTime": 16,
+    "tags": [
+      "Royalty",
+      "Dark/Macabre",
+      "Romance"
+    ]
   },
   {
     "id": "006",
     "title": "The Good Bargain",
-    "readingTime": 9
+    "readingTime": 9,
+    "tags": [
+      "Royalty",
+      "Wealth",
+      "Romance"
+    ]
   },
   {
     "id": "007",
     "title": "The Twelve Brothers",
-    "readingTime": 10
+    "readingTime": 10,
+    "tags": [
+      "Royalty",
+      "Nature/Forest",
+      "Dark/Macabre"
+    ]
   },
   {
     "id": "008",
     "title": "Brother and Sister",
-    "readingTime": 13
+    "readingTime": 13,
+    "tags": [
+      "Royalty",
+      "Nature/Forest",
+      "Animals"
+    ]
   },
   {
     "id": "009",
     "title": "Rapunzel",
-    "readingTime": 8
+    "readingTime": 8,
+    "tags": [
+      "Romance",
+      "Royalty",
+      "Nature/Forest"
+    ]
   },
   {
     "id": "010",
     "title": "The Three Little Men in the Wood",
-    "readingTime": 11
+    "readingTime": 11,
+    "tags": [
+      "Royalty",
+      "Nature/Forest",
+      "Romance"
+    ]
   },
   {
     "id": "011",
     "title": "The Three Spinners",
-    "readingTime": 5
+    "readingTime": 5,
+    "tags": [
+      "Royalty",
+      "Romance",
+      "Poverty"
+    ]
   },
   {
     "id": "012",
     "title": "Hansel and Grethel",
-    "readingTime": 15
+    "readingTime": 15,
+    "tags": [
+      "Nature/Forest",
+      "Poverty",
+      "Animals"
+    ]
   },
   {
     "id": "013",
     "title": "The Three Snake-Leaves",
-    "readingTime": 8
+    "readingTime": 8,
+    "tags": [
+      "Royalty",
+      "Romance",
+      "Dark/Macabre"
+    ]
   },
   {
     "id": "014",
     "title": "The White Snake",
-    "readingTime": 9
+    "readingTime": 9,
+    "tags": [
+      "Royalty",
+      "Nature/Forest",
+      "Animals"
+    ]
   },
   {
     "id": "015",
     "title": "The Valiant Little Tailor",
-    "readingTime": 17
+    "readingTime": 17,
+    "tags": [
+      "Nature/Forest",
+      "Royalty",
+      "Supernatural"
+    ]
   },
   {
     "id": "016",
     "title": "Cinderella",
-    "readingTime": 14
+    "readingTime": 14,
+    "tags": [
+      "Royalty",
+      "Romance",
+      "Nature/Forest"
+    ]
   },
   {
     "id": "017",
     "title": "The Riddle",
-    "readingTime": 6
+    "readingTime": 6,
+    "tags": [
+      "Trickery",
+      "Animals",
+      "Royalty"
+    ]
   },
   {
     "id": "018",
     "title": "Mother Holle",
-    "readingTime": 7
+    "readingTime": 7,
+    "tags": [
+      "Wealth",
+      "Nature/Forest",
+      "Dark/Macabre"
+    ]
   },
   {
     "id": "019",
     "title": "The Seven Ravens",
-    "readingTime": 5
+    "readingTime": 5,
+    "tags": [
+      "Animals",
+      "Nature/Forest",
+      "Supernatural"
+    ]
   },
   {
     "id": "020",
     "title": "Little Red-Cap",
-    "readingTime": 7
+    "readingTime": 7,
+    "tags": [
+      "Animals",
+      "Nature/Forest"
+    ]
   },
   {
     "id": "021",
     "title": "The Singing Bone",
-    "readingTime": 4
+    "readingTime": 4,
+    "tags": [
+      "Royalty",
+      "Nature/Forest",
+      "Romance"
+    ]
   },
   {
     "id": "022",
     "title": "The Devil with the Three Golden Hairs",
-    "readingTime": 13
+    "readingTime": 13,
+    "tags": [
+      "Dark/Macabre",
+      "Royalty",
+      "Wealth"
+    ]
   },
   {
     "id": "023",
     "title": "The Girl Without Hands",
-    "readingTime": 12
+    "readingTime": 12,
+    "tags": [
+      "Royalty",
+      "Nature/Forest",
+      "Romance"
+    ]
   },
   {
     "id": "024",
     "title": "Clever Hans",
-    "readingTime": 5
+    "readingTime": 5,
+    "tags": [
+      "Trickery"
+    ]
   },
   {
     "id": "025",
     "title": "The Three Languages",
-    "readingTime": 5
+    "readingTime": 5,
+    "tags": [
+      "Royalty",
+      "Wealth"
+    ]
   },
   {
     "id": "026",
     "title": "Clever Elsie",
-    "readingTime": 7
+    "readingTime": 7,
+    "tags": [
+      "Trickery",
+      "Dark/Macabre",
+      "Romance"
+    ]
   },
   {
     "id": "027",
     "title": "The Wishing-Table, The Gold-Ass, and The Cudgel in the Sack",
-    "readingTime": 20
+    "readingTime": 20,
+    "tags": [
+      "Wealth",
+      "Magic",
+      "Animals"
+    ]
   },
   {
     "id": "028",
     "title": "Thumbling",
-    "readingTime": 12
+    "readingTime": 12,
+    "tags": [
+      "Animals",
+      "Nature/Forest",
+      "Wealth"
+    ]
   },
   {
     "id": "029",
     "title": "The Elves (two stories)",
-    "readingTime": 3
+    "readingTime": 3,
+    "tags": [
+      "Supernatural",
+      "Nature/Forest",
+      "Wealth"
+    ]
   },
   {
     "id": "030",
     "title": "The Robber Bridegroom",
-    "readingTime": 7
+    "readingTime": 7,
+    "tags": [
+      "Romance",
+      "Nature/Forest",
+      "Dark/Macabre"
+    ]
   },
   {
     "id": "031",
     "title": "The Godfather",
-    "readingTime": 4
+    "readingTime": 4,
+    "tags": [
+      "Dark/Macabre"
+    ]
   },
   {
     "id": "032",
     "title": "Frau Trude",
-    "readingTime": 2
+    "readingTime": 2,
+    "tags": [
+      "Dark/Macabre",
+      "Nature/Forest"
+    ]
   },
   {
     "id": "033",
     "title": "Godfather Death",
-    "readingTime": 7
+    "readingTime": 7,
+    "tags": [
+      "Dark/Macabre",
+      "Royalty",
+      "Wealth"
+    ]
   },
   {
     "id": "034",
     "title": "Thumbling as Journeyman",
-    "readingTime": 8
+    "readingTime": 8,
+    "tags": [
+      "Wealth",
+      "Animals",
+      "Royalty"
+    ]
   },
   {
     "id": "035",
     "title": "Fitcher's Bird",
-    "readingTime": 8
+    "readingTime": 8,
+    "tags": [
+      "Animals",
+      "Romance",
+      "Magic"
+    ]
   },
   {
     "id": "036",
     "title": "The Juniper-Tree",
-    "readingTime": 16
+    "readingTime": 16,
+    "tags": [
+      "Animals",
+      "Nature/Forest",
+      "Romance"
+    ]
   },
   {
     "id": "037",
     "title": "Old Sultan",
-    "readingTime": 5
+    "readingTime": 5,
+    "tags": [
+      "Animals",
+      "Nature/Forest",
+      "Romance"
+    ]
   },
   {
     "id": "038",
     "title": "The Six Swans",
-    "readingTime": 10
+    "readingTime": 10,
+    "tags": [
+      "Royalty",
+      "Nature/Forest",
+      "Romance"
+    ]
   },
   {
     "id": "039",
     "title": "Little Briar-Rose",
-    "readingTime": 7
+    "readingTime": 7,
+    "tags": [
+      "Royalty",
+      "Trickery",
+      "Dark/Macabre"
+    ]
   },
   {
     "id": "040",
     "title": "Fundevogel",
-    "readingTime": 5
+    "readingTime": 5,
+    "tags": [
+      "Nature/Forest",
+      "Animals"
+    ]
   },
   {
     "id": "041",
     "title": "King Thrushbeard",
-    "readingTime": 9
+    "readingTime": 9,
+    "tags": [
+      "Royalty",
+      "Romance",
+      "Animals"
+    ]
   },
   {
     "id": "042",
     "title": "Little Snow-White",
-    "readingTime": 16
+    "readingTime": 16,
+    "tags": [
+      "Royalty",
+      "Nature/Forest",
+      "Dark/Macabre"
+    ]
   },
   {
     "id": "043",
     "title": "The Knapsack, The Hat, and The Horn",
-    "readingTime": 12
+    "readingTime": 12,
+    "tags": [
+      "Wealth",
+      "Royalty",
+      "Nature/Forest"
+    ]
   },
   {
     "id": "044",
     "title": "Rumpelstiltskin",
-    "readingTime": 6
+    "readingTime": 6,
+    "tags": [
+      "Royalty",
+      "Wealth",
+      "Animals"
+    ]
   },
   {
     "id": "045",
     "title": "Sweetheart Roland",
-    "readingTime": 8
+    "readingTime": 8,
+    "tags": [
+      "Magic",
+      "Dark/Macabre",
+      "Romance"
+    ]
   },
   {
     "id": "046",
     "title": "The Golden Bird",
-    "readingTime": 16
+    "readingTime": 16,
+    "tags": [
+      "Animals",
+      "Royalty",
+      "Nature/Forest"
+    ]
   },
   {
     "id": "047",
     "title": "The Two Brothers",
-    "readingTime": 43
+    "readingTime": 43,
+    "tags": [
+      "Animals",
+      "Royalty",
+      "Nature/Forest"
+    ]
   },
   {
     "id": "048",
     "title": "The Queen Bee",
-    "readingTime": 5
+    "readingTime": 5,
+    "tags": [
+      "Royalty",
+      "Nature/Forest",
+      "Dark/Macabre"
+    ]
   },
   {
     "id": "049",
     "title": "The Three Feathers",
-    "readingTime": 6
+    "readingTime": 6,
+    "tags": [
+      "Royalty",
+      "Dark/Macabre",
+      "Trickery"
+    ]
   },
   {
     "id": "050",
     "title": "The Golden Goose",
-    "readingTime": 8
+    "readingTime": 8,
+    "tags": [
+      "Animals",
+      "Nature/Forest",
+      "Royalty"
+    ]
   },
   {
     "id": "051",
     "title": "Allerleirauh",
-    "readingTime": 11
+    "readingTime": 11,
+    "tags": [
+      "Royalty",
+      "Romance",
+      "Nature/Forest"
+    ]
   },
   {
     "id": "052",
     "title": "The Hare's Bride",
-    "readingTime": 3
+    "readingTime": 3,
+    "tags": [
+      "Animals",
+      "Romance"
+    ]
   },
   {
     "id": "053",
     "title": "The Twelve Huntsmen",
-    "readingTime": 6
+    "readingTime": 6,
+    "tags": [
+      "Royalty",
+      "Animals",
+      "Romance"
+    ]
   },
   {
     "id": "054",
     "title": "The Thief and His Master",
-    "readingTime": 4
+    "readingTime": 4,
+    "tags": [
+      "Dark/Macabre",
+      "Animals",
+      "Wealth"
+    ]
   },
   {
     "id": "055",
     "title": "The Three Sons of Fortune",
-    "readingTime": 5
+    "readingTime": 5,
+    "tags": [
+      "Royalty",
+      "Animals",
+      "Wealth"
+    ]
   },
   {
     "id": "056",
     "title": "How Six Men Got On in the World",
-    "readingTime": 11
+    "readingTime": 11,
+    "tags": [
+      "Royalty",
+      "Nature/Forest",
+      "Wealth"
+    ]
   },
   {
     "id": "057",
     "title": "Gossip Wolf and the Fox",
-    "readingTime": 2
+    "readingTime": 2,
+    "tags": [
+      "Animals"
+    ]
   },
   {
     "id": "058",
     "title": "The Pink",
-    "readingTime": 10
+    "readingTime": 10,
+    "tags": [
+      "Royalty",
+      "Dark/Macabre",
+      "Nature/Forest"
+    ]
   },
   {
     "id": "059",
     "title": "The Old Man and His Grandson",
-    "readingTime": 2
+    "readingTime": 2,
+    "tags": [
+      "Romance"
+    ]
   },
   {
     "id": "060",
     "title": "The Water-Nix",
-    "readingTime": 2
+    "readingTime": 2,
+    "tags": [
+      "Supernatural",
+      "Dark/Macabre"
+    ]
   },
   {
     "id": "061",
     "title": "Brother Lustig",
-    "readingTime": 21
+    "readingTime": 21,
+    "tags": [
+      "Royalty",
+      "Wealth",
+      "Animals"
+    ]
   },
   {
     "id": "062",
     "title": "Hans in Luck",
-    "readingTime": 11
+    "readingTime": 11,
+    "tags": [
+      "Animals",
+      "Wealth",
+      "Poverty"
+    ]
   },
   {
     "id": "063",
     "title": "Hans Married",
-    "readingTime": 3
+    "readingTime": 3,
+    "tags": [
+      "Romance",
+      "Wealth"
+    ]
   },
   {
     "id": "064",
     "title": "The Gold-Children",
-    "readingTime": 10
+    "readingTime": 10,
+    "tags": [
+      "Animals",
+      "Wealth",
+      "Romance"
+    ]
   },
   {
     "id": "065",
     "title": "The Singing, Soaring Lark",
-    "readingTime": 12
+    "readingTime": 12,
+    "tags": [
+      "Animals",
+      "Royalty",
+      "Romance"
+    ]
   },
   {
     "id": "066",
     "title": "The Goose-Girl",
-    "readingTime": 12
+    "readingTime": 12,
+    "tags": [
+      "Royalty",
+      "Animals",
+      "Romance"
+    ]
   },
   {
     "id": "067",
     "title": "The Young Giant",
-    "readingTime": 16
+    "readingTime": 16,
+    "tags": [
+      "Supernatural",
+      "Nature/Forest",
+      "Animals"
+    ]
   },
   {
     "id": "068",
     "title": "The Elves",
-    "readingTime": 10
+    "readingTime": 10,
+    "tags": [
+      "Royalty",
+      "Supernatural",
+      "Nature/Forest"
+    ]
   },
   {
     "id": "069",
     "title": "The King of the Golden Mountain",
-    "readingTime": 13
+    "readingTime": 13,
+    "tags": [
+      "Royalty",
+      "Wealth",
+      "Nature/Forest"
+    ]
   },
   {
     "id": "070",
     "title": "The Raven",
-    "readingTime": 12
+    "readingTime": 12,
+    "tags": [
+      "Animals",
+      "Royalty",
+      "Supernatural"
+    ]
   },
   {
     "id": "071",
     "title": "The Peasant's Wise Daughter",
-    "readingTime": 8
+    "readingTime": 8,
+    "tags": [
+      "Royalty",
+      "Trickery",
+      "Romance"
+    ]
   },
   {
     "id": "072",
     "title": "The Three Little Birds",
-    "readingTime": 8
+    "readingTime": 8,
+    "tags": [
+      "Royalty",
+      "Animals",
+      "Dark/Macabre"
+    ]
   },
   {
     "id": "073",
     "title": "The Water of Life",
-    "readingTime": 12
+    "readingTime": 12,
+    "tags": [
+      "Royalty",
+      "Nature/Forest",
+      "Supernatural"
+    ]
   },
   {
     "id": "074",
     "title": "The Spirit in the Bottle",
-    "readingTime": 9
+    "readingTime": 9,
+    "tags": [
+      "Supernatural",
+      "Nature/Forest",
+      "Dark/Macabre"
+    ]
   },
   {
     "id": "075",
     "title": "The Devil's Sooty Brother",
-    "readingTime": 7
+    "readingTime": 7,
+    "tags": [
+      "Dark/Macabre",
+      "Royalty",
+      "Wealth"
+    ]
   },
   {
     "id": "076",
     "title": "Bearskin",
-    "readingTime": 10
+    "readingTime": 10,
+    "tags": [
+      "Animals",
+      "Romance",
+      "Wealth"
+    ]
   },
   {
     "id": "077",
     "title": "The Willow-Wren and the Bear",
-    "readingTime": 5
+    "readingTime": 5,
+    "tags": [
+      "Animals",
+      "Royalty",
+      "Nature/Forest"
+    ]
   },
   {
     "id": "078",
     "title": "Sweet Porridge",
-    "readingTime": 2
+    "readingTime": 2,
+    "tags": [
+      "Poverty"
+    ]
   },
   {
     "id": "079",
     "title": "Wise Folks",
-    "readingTime": 8
+    "readingTime": 8,
+    "tags": [
+      "Trickery",
+      "Wealth",
+      "Animals"
+    ]
   },
   {
     "id": "080",
     "title": "Stories About Snakes",
-    "readingTime": 3
+    "readingTime": 3,
+    "tags": [
+      "Classic Tale"
+    ]
   },
   {
     "id": "081",
     "title": "The Poor Miller's Boy and the Cat",
-    "readingTime": 8
+    "readingTime": 8,
+    "tags": [
+      "Animals",
+      "Poverty",
+      "Wealth"
+    ]
   },
   {
     "id": "082",
     "title": "The Two Travellers",
-    "readingTime": 21
+    "readingTime": 21,
+    "tags": [
+      "Royalty",
+      "Nature/Forest",
+      "Poverty"
+    ]
   },
   {
     "id": "083",
     "title": "Hans the Hedgehog",
-    "readingTime": 11
+    "readingTime": 11,
+    "tags": [
+      "Royalty",
+      "Nature/Forest",
+      "Romance"
+    ]
   },
   {
     "id": "084",
     "title": "The Shroud",
-    "readingTime": 2
+    "readingTime": 2,
+    "tags": [
+      "Classic Tale"
+    ]
   },
   {
     "id": "085",
     "title": "The Skilful Huntsman",
-    "readingTime": 12
+    "readingTime": 12,
+    "tags": [
+      "Nature/Forest",
+      "Royalty",
+      "Dark/Macabre"
+    ]
   },
   {
     "id": "086",
     "title": "The Two Kings' Children",
-    "readingTime": 18
+    "readingTime": 18,
+    "tags": [
+      "Royalty",
+      "Romance",
+      "Animals"
+    ]
   },
   {
     "id": "087",
     "title": "The Cunning Little Tailor",
-    "readingTime": 7
+    "readingTime": 7,
+    "tags": [
+      "Animals",
+      "Trickery",
+      "Royalty"
+    ]
   },
   {
     "id": "088",
     "title": "The Bright Sun Brings It to Light",
-    "readingTime": 3
+    "readingTime": 3,
+    "tags": [
+      "Romance",
+      "Wealth",
+      "Dark/Macabre"
+    ]
   },
   {
     "id": "089",
     "title": "The Blue Light",
-    "readingTime": 9
+    "readingTime": 9,
+    "tags": [
+      "Royalty",
+      "Magic",
+      "Poverty"
+    ]
   },
   {
     "id": "090",
     "title": "The Wilful Child",
-    "readingTime": 1
+    "readingTime": 1,
+    "tags": [
+      "Dark/Macabre"
+    ]
   },
   {
     "id": "091",
     "title": "The King's Son Who Feared Nothing",
-    "readingTime": 11
+    "readingTime": 11,
+    "tags": [
+      "Royalty",
+      "Supernatural",
+      "Nature/Forest"
+    ]
   },
   {
     "id": "092",
     "title": "Donkey Cabbages",
-    "readingTime": 14
+    "readingTime": 14,
+    "tags": [
+      "Nature/Forest",
+      "Magic",
+      "Animals"
+    ]
   },
   {
     "id": "093",
     "title": "The Old Woman in the Wood",
-    "readingTime": 5
+    "readingTime": 5,
+    "tags": [
+      "Nature/Forest",
+      "Poverty",
+      "Royalty"
+    ]
   },
   {
     "id": "094",
     "title": "The Three Brothers",
-    "readingTime": 4
+    "readingTime": 4,
+    "tags": [
+      "Dark/Macabre",
+      "Animals",
+      "Trickery"
+    ]
   },
   {
     "id": "095",
     "title": "The Devil and His Grandmother",
-    "readingTime": 7
+    "readingTime": 7,
+    "tags": [
+      "Dark/Macabre",
+      "Wealth",
+      "Trickery"
+    ]
   },
   {
     "id": "096",
     "title": "Ferdinand the Faithful",
-    "readingTime": 10
+    "readingTime": 10,
+    "tags": [
+      "Royalty",
+      "Animals",
+      "Poverty"
+    ]
   },
   {
     "id": "097",
     "title": "The Iron Stove",
-    "readingTime": 12
+    "readingTime": 12,
+    "tags": [
+      "Royalty",
+      "Nature/Forest",
+      "Romance"
+    ]
   },
   {
     "id": "098",
     "title": "The Four Skilful Brothers",
-    "readingTime": 9
+    "readingTime": 9,
+    "tags": [
+      "Royalty",
+      "Nature/Forest",
+      "Supernatural"
+    ]
   },
   {
     "id": "099",
     "title": "One-Eye, Two-Eyes, and Three-Eyes",
-    "readingTime": 14
+    "readingTime": 14,
+    "tags": [
+      "Nature/Forest",
+      "Trickery",
+      "Wealth"
+    ]
   },
   {
     "id": "100",
     "title": "Fair Katrinelje and Pif-Paf-Poltrie",
-    "readingTime": 2
+    "readingTime": 2,
+    "tags": [
+      "Classic Tale"
+    ]
   },
   {
     "id": "101",
     "title": "The Shoes That Were Danced to Pieces",
-    "readingTime": 8
+    "readingTime": 8,
+    "tags": [
+      "Royalty",
+      "Romance",
+      "Wealth"
+    ]
   },
   {
     "id": "102",
     "title": "The Six Servants",
-    "readingTime": 14
+    "readingTime": 14,
+    "tags": [
+      "Royalty",
+      "Romance",
+      "Nature/Forest"
+    ]
   },
   {
     "id": "103",
     "title": "The White Bride and the Black One",
-    "readingTime": 8
+    "readingTime": 8,
+    "tags": [
+      "Romance",
+      "Royalty",
+      "Magic"
+    ]
   },
   {
     "id": "104",
     "title": "Iron John",
-    "readingTime": 17
+    "readingTime": 17,
+    "tags": [
+      "Royalty",
+      "Nature/Forest",
+      "Animals"
+    ]
   },
   {
     "id": "105",
     "title": "The Three Black Princesses",
-    "readingTime": 4
+    "readingTime": 4,
+    "tags": [
+      "Royalty",
+      "Nature/Forest",
+      "Poverty"
+    ]
   },
   {
     "id": "106",
     "title": "Knoist and His Three Sons",
-    "readingTime": 1
+    "readingTime": 1,
+    "tags": [
+      "Nature/Forest"
+    ]
   },
   {
     "id": "107",
     "title": "The Maid of Brakel",
-    "readingTime": 1
+    "readingTime": 1,
+    "tags": [
+      "Classic Tale"
+    ]
   },
   {
     "id": "108",
     "title": "Domestic Servants",
-    "readingTime": 1
+    "readingTime": 1,
+    "tags": [
+      "Classic Tale"
+    ]
   },
   {
     "id": "109",
     "title": "The Lambkin and the Little Fish",
-    "readingTime": 4
+    "readingTime": 4,
+    "tags": [
+      "Animals",
+      "Dark/Macabre",
+      "Poverty"
+    ]
   },
   {
     "id": "110",
     "title": "Simeli Mountain",
-    "readingTime": 5
+    "readingTime": 5,
+    "tags": [
+      "Nature/Forest",
+      "Wealth",
+      "Poverty"
+    ]
   },
   {
     "id": "111",
     "title": "Going A-Travelling",
-    "readingTime": 3
+    "readingTime": 3,
+    "tags": [
+      "Poverty",
+      "Animals"
+    ]
   },
   {
     "id": "112",
     "title": "The Donkey",
-    "readingTime": 7
+    "readingTime": 7,
+    "tags": [
+      "Royalty",
+      "Romance",
+      "Dark/Macabre"
+    ]
   },
   {
     "id": "113",
     "title": "The Ungrateful Son",
-    "readingTime": 1
+    "readingTime": 1,
+    "tags": [
+      "Classic Tale"
+    ]
   },
   {
     "id": "114",
     "title": "The Turnip",
-    "readingTime": 6
+    "readingTime": 6,
+    "tags": [
+      "Royalty",
+      "Wealth",
+      "Nature/Forest"
+    ]
   },
   {
     "id": "115",
     "title": "The Old Man Made Young Again",
-    "readingTime": 3
+    "readingTime": 3,
+    "tags": [
+      "Poverty"
+    ]
   },
   {
     "id": "116",
     "title": "The Three Sluggards",
-    "readingTime": 2
+    "readingTime": 2,
+    "tags": [
+      "Royalty"
+    ]
   },
   {
     "id": "117",
     "title": "The Shepherd Boy",
-    "readingTime": 2
+    "readingTime": 2,
+    "tags": [
+      "Royalty",
+      "Nature/Forest",
+      "Trickery"
+    ]
   },
   {
     "id": "118",
     "title": "The Star-Money",
-    "readingTime": 2
+    "readingTime": 2,
+    "tags": [
+      "Wealth",
+      "Poverty"
+    ]
   },
   {
     "id": "119",
     "title": "The Stolen Farthings",
-    "readingTime": 2
+    "readingTime": 2,
+    "tags": [
+      "Poverty"
+    ]
   },
   {
     "id": "120",
     "title": "Brides On Their Trial",
-    "readingTime": 1
+    "readingTime": 1,
+    "tags": [
+      "Romance"
+    ]
   },
   {
     "id": "121",
     "title": "The Sparrow and His Four Children",
-    "readingTime": 5
+    "readingTime": 5,
+    "tags": [
+      "Animals"
+    ]
   },
   {
     "id": "122",
     "title": "Snow-White and Rose-Red",
-    "readingTime": 13
+    "readingTime": 13,
+    "tags": [
+      "Animals",
+      "Nature/Forest",
+      "Supernatural"
+    ]
   },
   {
     "id": "123",
     "title": "The Glass Coffin",
-    "readingTime": 12
+    "readingTime": 12,
+    "tags": [
+      "Nature/Forest",
+      "Royalty",
+      "Animals"
+    ]
   },
   {
     "id": "124",
     "title": "Lazy Harry",
-    "readingTime": 5
+    "readingTime": 5,
+    "tags": [
+      "Romance",
+      "Animals"
+    ]
   },
   {
     "id": "125",
     "title": "The Griffin",
-    "readingTime": 15
+    "readingTime": 15,
+    "tags": [
+      "Royalty",
+      "Wealth",
+      "Romance"
+    ]
   },
   {
     "id": "126",
     "title": "Strong Hans",
-    "readingTime": 14
+    "readingTime": 14,
+    "tags": [
+      "Supernatural",
+      "Nature/Forest",
+      "Royalty"
+    ]
   },
   {
     "id": "127",
     "title": "The Hut in the Forest",
-    "readingTime": 10
+    "readingTime": 10,
+    "tags": [
+      "Nature/Forest",
+      "Royalty",
+      "Romance"
+    ]
   },
   {
     "id": "128",
     "title": "The Goose-Girl at the Well",
-    "readingTime": 20
+    "readingTime": 20,
+    "tags": [
+      "Royalty",
+      "Nature/Forest",
+      "Animals"
+    ]
   },
   {
     "id": "129",
     "title": "Eve's Various Children",
-    "readingTime": 4
+    "readingTime": 4,
+    "tags": [
+      "Royalty"
+    ]
   },
   {
     "id": "130",
     "title": "The Nix of the Mill-Pond",
-    "readingTime": 11
+    "readingTime": 11,
+    "tags": [
+      "Supernatural",
+      "Nature/Forest",
+      "Romance"
+    ]
   },
   {
     "id": "131",
     "title": "The Poor Boy in the Grave",
-    "readingTime": 7
+    "readingTime": 7,
+    "tags": [
+      "Dark/Macabre",
+      "Poverty",
+      "Romance"
+    ]
   },
   {
     "id": "132",
     "title": "The True Sweetheart",
-    "readingTime": 14
+    "readingTime": 14,
+    "tags": [
+      "Royalty",
+      "Romance",
+      "Nature/Forest"
+    ]
   },
   {
     "id": "133",
     "title": "The Spindle, The Shuttle, and The Needle",
-    "readingTime": 6
+    "readingTime": 6,
+    "tags": [
+      "Royalty",
+      "Romance",
+      "Wealth"
+    ]
   },
   {
     "id": "134",
     "title": "The Sea-Hare",
-    "readingTime": 7
+    "readingTime": 7,
+    "tags": [
+      "Animals",
+      "Royalty",
+      "Romance"
+    ]
   },
   {
     "id": "135",
     "title": "The Master-Thief",
-    "readingTime": 16
+    "readingTime": 16,
+    "tags": [
+      "Dark/Macabre",
+      "Animals",
+      "Romance"
+    ]
   },
   {
     "id": "136",
     "title": "The Drummer",
-    "readingTime": 19
+    "readingTime": 19,
+    "tags": [
+      "Nature/Forest",
+      "Magic",
+      "Romance"
+    ]
   },
   {
     "id": "137",
     "title": "The Ear of Corn",
-    "readingTime": 2
+    "readingTime": 2,
+    "tags": [
+      "Animals"
+    ]
   },
   {
     "id": "138",
     "title": "Old Rinkrank",
-    "readingTime": 4
+    "readingTime": 4,
+    "tags": [
+      "Royalty",
+      "Nature/Forest",
+      "Wealth"
+    ]
   },
   {
     "id": "139",
     "title": "The Crystal Ball",
-    "readingTime": 6
+    "readingTime": 6,
+    "tags": [
+      "Royalty",
+      "Animals",
+      "Dark/Macabre"
+    ]
   },
   {
     "id": "140",
     "title": "Maid Maleen",
-    "readingTime": 10
+    "readingTime": 10,
+    "tags": [
+      "Romance",
+      "Royalty",
+      "Wealth"
+    ]
   },
   {
     "id": "141",
     "title": "St. Joseph in the Forest",
-    "readingTime": 6
+    "readingTime": 6,
+    "tags": [
+      "Nature/Forest",
+      "Wealth"
+    ]
   },
   {
     "id": "142",
     "title": "The Twelve Apostles",
-    "readingTime": 3
+    "readingTime": 3,
+    "tags": [
+      "Poverty",
+      "Wealth"
+    ]
   },
   {
     "id": "143",
     "title": "The Rose",
-    "readingTime": 1
+    "readingTime": 1,
+    "tags": [
+      "Nature/Forest"
+    ]
   },
   {
     "id": "144",
     "title": "Poverty and Humility Lead to Heaven",
-    "readingTime": 3
+    "readingTime": 3,
+    "tags": [
+      "Poverty",
+      "Royalty"
+    ]
   },
   {
     "id": "145",
     "title": "God's Food",
-    "readingTime": 2
+    "readingTime": 2,
+    "tags": [
+      "Wealth",
+      "Poverty"
+    ]
   },
   {
     "id": "146",
     "title": "The Three Green Twigs",
-    "readingTime": 5
+    "readingTime": 5,
+    "tags": [
+      "Nature/Forest",
+      "Poverty",
+      "Animals"
+    ]
   },
   {
     "id": "147",
     "title": "The Aged Mother",
-    "readingTime": 2
+    "readingTime": 2,
+    "tags": [
+      "Classic Tale"
+    ]
   },
   {
     "id": "148",
     "title": "The Hazel-Branch",
-    "readingTime": 2
+    "readingTime": 2,
+    "tags": [
+      "Nature/Forest"
+    ]
   },
   {
     "id": "149",
     "title": "Cat and Mouse in Partnership",
-    "readingTime": 5
+    "readingTime": 5,
+    "tags": [
+      "Animals",
+      "Poverty"
+    ]
   },
   {
     "id": "150",
     "title": "The Wonderful Musician",
-    "readingTime": 6
+    "readingTime": 6,
+    "tags": [
+      "Animals",
+      "Nature/Forest",
+      "Poverty"
+    ]
   },
   {
     "id": "151",
     "title": "The Pack of Ragamuffins",
-    "readingTime": 5
+    "readingTime": 5,
+    "tags": [
+      "Classic Tale"
+    ]
   },
   {
     "id": "152",
     "title": "The Straw, the Coal, and the Bean",
-    "readingTime": 3
+    "readingTime": 3,
+    "tags": [
+      "Dark/Macabre"
+    ]
   },
   {
     "id": "153",
     "title": "The Fisherman and His Wife",
-    "readingTime": 16
+    "readingTime": 16,
+    "tags": [
+      "Romance",
+      "Royalty",
+      "Animals"
+    ]
   },
   {
     "id": "154",
     "title": "The Mouse, the Bird, and the Sausage",
-    "readingTime": 4
+    "readingTime": 4,
+    "tags": [
+      "Animals",
+      "Nature/Forest",
+      "Poverty"
+    ]
   },
   {
     "id": "155",
     "title": "The Bremen Town-Musicians",
-    "readingTime": 7
+    "readingTime": 7,
+    "tags": [
+      "Animals",
+      "Nature/Forest",
+      "Dark/Macabre"
+    ]
   },
   {
     "id": "156",
     "title": "The Louse and the Flea",
-    "readingTime": 3
+    "readingTime": 3,
+    "tags": [
+      "Nature/Forest"
+    ]
   },
   {
     "id": "157",
     "title": "The Tailor in Heaven",
-    "readingTime": 4
+    "readingTime": 4,
+    "tags": [
+      "Dark/Macabre",
+      "Wealth"
+    ]
   },
   {
     "id": "158",
     "title": "The Wedding of Mrs. Fox (two stories)",
-    "readingTime": 4
+    "readingTime": 4,
+    "tags": [
+      "Animals",
+      "Romance"
+    ]
   },
   {
     "id": "159",
     "title": "The Elves",
-    "readingTime": 4
+    "readingTime": 4,
+    "tags": [
+      "Supernatural",
+      "Wealth"
+    ]
   },
   {
     "id": "160",
     "title": "Herr Korbes",
-    "readingTime": 2
+    "readingTime": 2,
+    "tags": [
+      "Animals"
+    ]
   },
   {
     "id": "161",
     "title": "The Dog and the Sparrow",
-    "readingTime": 7
+    "readingTime": 7,
+    "tags": [
+      "Animals",
+      "Dark/Macabre",
+      "Romance"
+    ]
   },
   {
     "id": "162",
     "title": "Frederick and Catherine",
-    "readingTime": 13
+    "readingTime": 13,
+    "tags": [
+      "Animals",
+      "Dark/Macabre",
+      "Wealth"
+    ]
   },
   {
     "id": "163",
     "title": "The Little Peasant",
-    "readingTime": 11
+    "readingTime": 11,
+    "tags": [
+      "Romance",
+      "Animals",
+      "Dark/Macabre"
+    ]
   },
   {
     "id": "164",
     "title": "Jorinda and Joringel",
-    "readingTime": 5
+    "readingTime": 5,
+    "tags": [
+      "Royalty",
+      "Nature/Forest",
+      "Animals"
+    ]
   },
   {
     "id": "165",
     "title": "The Wolf and the Man",
-    "readingTime": 3
+    "readingTime": 3,
+    "tags": [
+      "Animals",
+      "Nature/Forest"
+    ]
   },
   {
     "id": "166",
     "title": "The Wolf and the Fox",
-    "readingTime": 4
+    "readingTime": 4,
+    "tags": [
+      "Animals",
+      "Nature/Forest"
+    ]
   },
   {
     "id": "167",
     "title": "The Fox and the Cat",
-    "readingTime": 2
+    "readingTime": 2,
+    "tags": [
+      "Animals",
+      "Nature/Forest",
+      "Trickery"
+    ]
   },
   {
     "id": "168",
     "title": "Clever Grethel",
-    "readingTime": 5
+    "readingTime": 5,
+    "tags": [
+      "Trickery"
+    ]
   },
   {
     "id": "169",
     "title": "The Death of the Little Hen",
-    "readingTime": 4
+    "readingTime": 4,
+    "tags": [
+      "Dark/Macabre",
+      "Romance"
+    ]
   },
   {
     "id": "170",
     "title": "Gambling Hansel",
-    "readingTime": 5
+    "readingTime": 5,
+    "tags": [
+      "Dark/Macabre",
+      "Nature/Forest"
+    ]
   },
   {
     "id": "171",
     "title": "The Fox and the Geese",
-    "readingTime": 2
+    "readingTime": 2,
+    "tags": [
+      "Animals"
+    ]
   },
   {
     "id": "172",
     "title": "The Poor Man and the Rich Man",
-    "readingTime": 9
+    "readingTime": 9,
+    "tags": [
+      "Wealth",
+      "Poverty",
+      "Romance"
+    ]
   },
   {
     "id": "173",
     "title": "Old Hildebrand",
-    "readingTime": 7
+    "readingTime": 7,
+    "tags": [
+      "Romance"
+    ]
   },
   {
     "id": "174",
     "title": "Doctor Knowall",
-    "readingTime": 4
+    "readingTime": 4,
+    "tags": [
+      "Wealth",
+      "Romance",
+      "Poverty"
+    ]
   },
   {
     "id": "175",
     "title": "The Jew Among Thorns",
-    "readingTime": 9
+    "readingTime": 9,
+    "tags": [
+      "Wealth",
+      "Animals",
+      "Dark/Macabre"
+    ]
   },
   {
     "id": "176",
     "title": "The Flail from Heaven",
-    "readingTime": 2
+    "readingTime": 2,
+    "tags": [
+      "Nature/Forest"
+    ]
   },
   {
     "id": "177",
     "title": "The Three Army-Surgeons",
-    "readingTime": 6
+    "readingTime": 6,
+    "tags": [
+      "Animals",
+      "Dark/Macabre",
+      "Wealth"
+    ]
   },
   {
     "id": "178",
     "title": "The Seven Swabians",
-    "readingTime": 6
+    "readingTime": 6,
+    "tags": [
+      "Animals",
+      "Supernatural",
+      "Dark/Macabre"
+    ]
   },
   {
     "id": "179",
     "title": "The Three Apprentices",
-    "readingTime": 6
+    "readingTime": 6,
+    "tags": [
+      "Wealth",
+      "Dark/Macabre",
+      "Animals"
+    ]
   },
   {
     "id": "180",
     "title": "The Lazy Spinner",
-    "readingTime": 4
+    "readingTime": 4,
+    "tags": [
+      "Nature/Forest",
+      "Romance",
+      "Dark/Macabre"
+    ]
   },
   {
     "id": "181",
     "title": "The Fox and the Horse",
-    "readingTime": 3
+    "readingTime": 3,
+    "tags": [
+      "Animals",
+      "Nature/Forest"
+    ]
   },
   {
     "id": "182",
     "title": "The Lord's Animals and the Devil's",
-    "readingTime": 2
+    "readingTime": 2,
+    "tags": [
+      "Dark/Macabre"
+    ]
   },
   {
     "id": "183",
     "title": "The Beam",
-    "readingTime": 2
+    "readingTime": 2,
+    "tags": [
+      "Romance"
+    ]
   },
   {
     "id": "184",
     "title": "The Old Beggar-Woman",
-    "readingTime": 1
+    "readingTime": 1,
+    "tags": [
+      "Poverty"
+    ]
   },
   {
     "id": "185",
     "title": "Odds and Ends",
-    "readingTime": 2
+    "readingTime": 2,
+    "tags": [
+      "Romance"
+    ]
   },
   {
     "id": "186",
     "title": "The Story of Schlauraffen Land",
-    "readingTime": 2
+    "readingTime": 2,
+    "tags": [
+      "Animals",
+      "Nature/Forest"
+    ]
   },
   {
     "id": "187",
     "title": "The Ditmarsch Tale of Wonders",
-    "readingTime": 2
+    "readingTime": 2,
+    "tags": [
+      "Animals"
+    ]
   },
   {
     "id": "188",
     "title": "A Riddling Tale",
-    "readingTime": 1
+    "readingTime": 1,
+    "tags": [
+      "Romance"
+    ]
   },
   {
     "id": "189",
     "title": "The Wise Servant",
-    "readingTime": 2
+    "readingTime": 2,
+    "tags": [
+      "Trickery"
+    ]
   },
   {
     "id": "190",
     "title": "The Peasant in Heaven",
-    "readingTime": 2
+    "readingTime": 2,
+    "tags": [
+      "Wealth",
+      "Poverty"
+    ]
   },
   {
     "id": "191",
     "title": "Lean Lisa",
-    "readingTime": 3
+    "readingTime": 3,
+    "tags": [
+      "Romance"
+    ]
   },
   {
     "id": "192",
     "title": "Sharing Joy and Sorrow",
-    "readingTime": 2
+    "readingTime": 2,
+    "tags": [
+      "Romance"
+    ]
   },
   {
     "id": "193",
     "title": "The Willow-Wren",
-    "readingTime": 6
+    "readingTime": 6,
+    "tags": [
+      "Royalty",
+      "Animals",
+      "Trickery"
+    ]
   },
   {
     "id": "194",
     "title": "The Sole",
-    "readingTime": 2
+    "readingTime": 2,
+    "tags": [
+      "Royalty"
+    ]
   },
   {
     "id": "195",
     "title": "The Bittern and the Hoopoe",
-    "readingTime": 2
+    "readingTime": 2,
+    "tags": [
+      "Wealth"
+    ]
   },
   {
     "id": "196",
     "title": "The Owl",
-    "readingTime": 5
+    "readingTime": 5,
+    "tags": [
+      "Supernatural",
+      "Dark/Macabre"
+    ]
   },
   {
     "id": "197",
     "title": "The Moon",
-    "readingTime": 4
+    "readingTime": 4,
+    "tags": [
+      "Nature/Forest",
+      "Dark/Macabre"
+    ]
   },
   {
     "id": "198",
     "title": "The Duration of Life",
-    "readingTime": 3
+    "readingTime": 3,
+    "tags": [
+      "Classic Tale"
+    ]
   },
   {
     "id": "199",
     "title": "Death's Messengers",
-    "readingTime": 3
+    "readingTime": 3,
+    "tags": [
+      "Dark/Macabre",
+      "Supernatural"
+    ]
   },
   {
     "id": "200",
     "title": "Master Pfriem",
-    "readingTime": 8
+    "readingTime": 8,
+    "tags": [
+      "Dark/Macabre"
+    ]
   },
   {
     "id": "201",
     "title": "The Little Folks' Presents",
-    "readingTime": 5
+    "readingTime": 5,
+    "tags": [
+      "Wealth"
+    ]
   },
   {
     "id": "202",
     "title": "The Giant and the Tailor",
-    "readingTime": 4
+    "readingTime": 4,
+    "tags": [
+      "Supernatural",
+      "Nature/Forest"
+    ]
   },
   {
     "id": "203",
     "title": "The Nail",
-    "readingTime": 2
+    "readingTime": 2,
+    "tags": [
+      "Animals",
+      "Wealth"
+    ]
   },
   {
     "id": "204",
     "title": "The Hare and the Hedgehog",
-    "readingTime": 7
+    "readingTime": 7,
+    "tags": [
+      "Animals",
+      "Romance"
+    ]
   },
   {
     "id": "205",
     "title": "The Peasant and the Devil",
-    "readingTime": 2
+    "readingTime": 2,
+    "tags": [
+      "Dark/Macabre",
+      "Wealth",
+      "Trickery"
+    ]
   },
   {
     "id": "206",
     "title": "The Crumbs on the Table",
-    "readingTime": 1
+    "readingTime": 1,
+    "tags": [
+      "Classic Tale"
+    ]
   },
   {
     "id": "207",
     "title": "The Grave-Mound",
-    "readingTime": 8
+    "readingTime": 8,
+    "tags": [
+      "Dark/Macabre",
+      "Wealth",
+      "Poverty"
+    ]
   },
   {
     "id": "208",
     "title": "The Boots of Buffalo-Leather",
-    "readingTime": 8
+    "readingTime": 8,
+    "tags": [
+      "Nature/Forest",
+      "Royalty",
+      "Poverty"
+    ]
   },
   {
     "id": "209",
     "title": "The Golden Key",
-    "readingTime": 1
+    "readingTime": 1,
+    "tags": [
+      "Wealth"
+    ]
   }
 ]
