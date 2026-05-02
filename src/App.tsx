@@ -43,7 +43,13 @@ function App() {
       fetch(`/stories/${selectedStory.id}.txt`)
         .then(res => res.text())
         .then(text => {
-          setStoryContent(text);
+          // Fix hard-wrapped lines: split by paragraph, replace single newlines with spaces, rejoin.
+          const formattedText = text
+            .split(/\n\s*\n/)
+            .map(p => p.replace(/\n/g, ' '))
+            .join('\n\n');
+            
+          setStoryContent(formattedText);
           setIsLoading(false);
           window.scrollTo(0, 0);
         })
