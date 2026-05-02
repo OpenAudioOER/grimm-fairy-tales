@@ -23,6 +23,7 @@ function App() {
   const [selectedStory, setSelectedStory] = useState<Story | null>(null);
   const [storyContent, setStoryContent] = useState<string>('');
   const [isLoading, setIsLoading] = useState(false);
+  const [scrollProgress, setScrollProgress] = useState(0);
 
   // Extract all unique tags
   const allTags = useMemo(() => {
@@ -52,12 +53,23 @@ function App() {
           setStoryContent(formattedText);
           setIsLoading(false);
           window.scrollTo(0, 0);
+          setScrollProgress(0);
         })
         .catch(err => {
           console.error("Failed to load story", err);
           setStoryContent("Sorry, we couldn't load this story.");
           setIsLoading(false);
         });
+        
+      const handleScroll = () => {
+        const totalScroll = document.documentElement.scrollTop;
+        const windowHeight = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+        if (windowHeight === 0) return;
+        setScrollProgress((totalScroll / windowHeight) * 100);
+      };
+      
+      window.addEventListener('scroll', handleScroll);
+      return () => window.removeEventListener('scroll', handleScroll);
     }
   }, [selectedStory]);
 
@@ -81,24 +93,32 @@ function App() {
     const isRead = readStories.includes(selectedStory.id);
     return (
       <div className="min-h-screen pb-20 bg-[#F6F4ED]">
-        <header className="sticky top-0 bg-[#F6F4ED]/80 backdrop-blur-xl border-b border-[#E5DFD1] z-10 px-4 py-3 flex items-center justify-between shadow-sm">
-          <button 
-            onClick={() => setSelectedStory(null)}
-            className="flex items-center gap-2 text-[#4A453F] hover:text-[#1C1C1C] transition-colors"
-          >
-            <ChevronLeft className="w-5 h-5" />
-            <span className="font-medium text-sm">Library</span>
-          </button>
-          
-          <button
-            onClick={() => toggleRead(selectedStory.id)}
-            className={`flex items-center gap-2 px-4 py-1.5 rounded-full text-xs font-bold transition-all shadow-sm border ${
-              isRead ? 'bg-[#E5F2EA] text-[#2F6B4A] border-[#D1E6D8]' : 'bg-white/60 text-[#4A453F] hover:bg-white border-[#E5DFD1]'
-            }`}
-          >
-            <CheckCircle className={`w-4 h-4 ${isRead ? 'fill-[#A9D8B9]' : ''}`} />
-            {isRead ? 'Read' : 'Mark as Read'}
-          </button>
+        <header className="sticky top-0 bg-[#F6F4ED]/80 backdrop-blur-xl border-b border-[#E5DFD1] z-10 shadow-sm">
+          <div className="px-4 py-3 flex items-center justify-between">
+            <button 
+              onClick={() => setSelectedStory(null)}
+              className="flex items-center gap-2 text-[#4A453F] hover:text-[#1C1C1C] transition-colors"
+            >
+              <ChevronLeft className="w-5 h-5" />
+              <span className="font-medium text-sm">Library</span>
+            </button>
+            
+            <button
+              onClick={() => toggleRead(selectedStory.id)}
+              className={`flex items-center gap-2 px-4 py-1.5 rounded-full text-xs font-bold transition-all shadow-sm border ${
+                isRead ? 'bg-[#E5F2EA] text-[#2F6B4A] border-[#D1E6D8]' : 'bg-white/60 text-[#4A453F] hover:bg-white border-[#E5DFD1]'
+              }`}
+            >
+              <CheckCircle className={`w-4 h-4 ${isRead ? 'fill-[#A9D8B9]' : ''}`} />
+              {isRead ? 'Read' : 'Mark as Read'}
+            </button>
+          </div>
+          <div className="h-0.5 w-full bg-transparent absolute bottom-0 left-0">
+            <div 
+              className="h-full bg-[#2C2825] transition-all duration-150 ease-out"
+              style={{ width: `${scrollProgress}%` }}
+            />
+          </div>
         </header>
         
         <main className="max-w-2xl mx-auto px-6 pt-12 pb-24">
