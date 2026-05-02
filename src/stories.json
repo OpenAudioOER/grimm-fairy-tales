@@ -1,0 +1,1047 @@
+[
+  {
+    "id": "001",
+    "title": "The Frog King, or Iron Henry",
+    "readingTime": 8
+  },
+  {
+    "id": "002",
+    "title": "Our Lady's Child",
+    "readingTime": 10
+  },
+  {
+    "id": "003",
+    "title": "The Story of a Youth Who Went Forth to Learn What Fear Was",
+    "readingTime": 19
+  },
+  {
+    "id": "004",
+    "title": "The Wolf and the Seven Little Kids",
+    "readingTime": 6
+  },
+  {
+    "id": "005",
+    "title": "Faithful John",
+    "readingTime": 16
+  },
+  {
+    "id": "006",
+    "title": "The Good Bargain",
+    "readingTime": 9
+  },
+  {
+    "id": "007",
+    "title": "The Twelve Brothers",
+    "readingTime": 10
+  },
+  {
+    "id": "008",
+    "title": "Brother and Sister",
+    "readingTime": 13
+  },
+  {
+    "id": "009",
+    "title": "Rapunzel",
+    "readingTime": 8
+  },
+  {
+    "id": "010",
+    "title": "The Three Little Men in the Wood",
+    "readingTime": 11
+  },
+  {
+    "id": "011",
+    "title": "The Three Spinners",
+    "readingTime": 5
+  },
+  {
+    "id": "012",
+    "title": "Hansel and Grethel",
+    "readingTime": 15
+  },
+  {
+    "id": "013",
+    "title": "The Three Snake-Leaves",
+    "readingTime": 8
+  },
+  {
+    "id": "014",
+    "title": "The White Snake",
+    "readingTime": 9
+  },
+  {
+    "id": "015",
+    "title": "The Valiant Little Tailor",
+    "readingTime": 17
+  },
+  {
+    "id": "016",
+    "title": "Cinderella",
+    "readingTime": 14
+  },
+  {
+    "id": "017",
+    "title": "The Riddle",
+    "readingTime": 6
+  },
+  {
+    "id": "018",
+    "title": "Mother Holle",
+    "readingTime": 7
+  },
+  {
+    "id": "019",
+    "title": "The Seven Ravens",
+    "readingTime": 5
+  },
+  {
+    "id": "020",
+    "title": "Little Red-Cap",
+    "readingTime": 7
+  },
+  {
+    "id": "021",
+    "title": "The Singing Bone",
+    "readingTime": 4
+  },
+  {
+    "id": "022",
+    "title": "The Devil with the Three Golden Hairs",
+    "readingTime": 13
+  },
+  {
+    "id": "023",
+    "title": "The Girl Without Hands",
+    "readingTime": 12
+  },
+  {
+    "id": "024",
+    "title": "Clever Hans",
+    "readingTime": 5
+  },
+  {
+    "id": "025",
+    "title": "The Three Languages",
+    "readingTime": 5
+  },
+  {
+    "id": "026",
+    "title": "Clever Elsie",
+    "readingTime": 7
+  },
+  {
+    "id": "027",
+    "title": "The Wishing-Table, The Gold-Ass, and The Cudgel in the Sack",
+    "readingTime": 20
+  },
+  {
+    "id": "028",
+    "title": "Thumbling",
+    "readingTime": 12
+  },
+  {
+    "id": "029",
+    "title": "The Elves (two stories)",
+    "readingTime": 3
+  },
+  {
+    "id": "030",
+    "title": "The Robber Bridegroom",
+    "readingTime": 7
+  },
+  {
+    "id": "031",
+    "title": "The Godfather",
+    "readingTime": 4
+  },
+  {
+    "id": "032",
+    "title": "Frau Trude",
+    "readingTime": 2
+  },
+  {
+    "id": "033",
+    "title": "Godfather Death",
+    "readingTime": 7
+  },
+  {
+    "id": "034",
+    "title": "Thumbling as Journeyman",
+    "readingTime": 8
+  },
+  {
+    "id": "035",
+    "title": "Fitcher's Bird",
+    "readingTime": 8
+  },
+  {
+    "id": "036",
+    "title": "The Juniper-Tree",
+    "readingTime": 16
+  },
+  {
+    "id": "037",
+    "title": "Old Sultan",
+    "readingTime": 5
+  },
+  {
+    "id": "038",
+    "title": "The Six Swans",
+    "readingTime": 10
+  },
+  {
+    "id": "039",
+    "title": "Little Briar-Rose",
+    "readingTime": 7
+  },
+  {
+    "id": "040",
+    "title": "Fundevogel",
+    "readingTime": 5
+  },
+  {
+    "id": "041",
+    "title": "King Thrushbeard",
+    "readingTime": 9
+  },
+  {
+    "id": "042",
+    "title": "Little Snow-White",
+    "readingTime": 16
+  },
+  {
+    "id": "043",
+    "title": "The Knapsack, The Hat, and The Horn",
+    "readingTime": 12
+  },
+  {
+    "id": "044",
+    "title": "Rumpelstiltskin",
+    "readingTime": 6
+  },
+  {
+    "id": "045",
+    "title": "Sweetheart Roland",
+    "readingTime": 8
+  },
+  {
+    "id": "046",
+    "title": "The Golden Bird",
+    "readingTime": 16
+  },
+  {
+    "id": "047",
+    "title": "The Two Brothers",
+    "readingTime": 43
+  },
+  {
+    "id": "048",
+    "title": "The Queen Bee",
+    "readingTime": 5
+  },
+  {
+    "id": "049",
+    "title": "The Three Feathers",
+    "readingTime": 6
+  },
+  {
+    "id": "050",
+    "title": "The Golden Goose",
+    "readingTime": 8
+  },
+  {
+    "id": "051",
+    "title": "Allerleirauh",
+    "readingTime": 11
+  },
+  {
+    "id": "052",
+    "title": "The Hare's Bride",
+    "readingTime": 3
+  },
+  {
+    "id": "053",
+    "title": "The Twelve Huntsmen",
+    "readingTime": 6
+  },
+  {
+    "id": "054",
+    "title": "The Thief and His Master",
+    "readingTime": 4
+  },
+  {
+    "id": "055",
+    "title": "The Three Sons of Fortune",
+    "readingTime": 5
+  },
+  {
+    "id": "056",
+    "title": "How Six Men Got On in the World",
+    "readingTime": 11
+  },
+  {
+    "id": "057",
+    "title": "Gossip Wolf and the Fox",
+    "readingTime": 2
+  },
+  {
+    "id": "058",
+    "title": "The Pink",
+    "readingTime": 10
+  },
+  {
+    "id": "059",
+    "title": "The Old Man and His Grandson",
+    "readingTime": 2
+  },
+  {
+    "id": "060",
+    "title": "The Water-Nix",
+    "readingTime": 2
+  },
+  {
+    "id": "061",
+    "title": "Brother Lustig",
+    "readingTime": 21
+  },
+  {
+    "id": "062",
+    "title": "Hans in Luck",
+    "readingTime": 11
+  },
+  {
+    "id": "063",
+    "title": "Hans Married",
+    "readingTime": 3
+  },
+  {
+    "id": "064",
+    "title": "The Gold-Children",
+    "readingTime": 10
+  },
+  {
+    "id": "065",
+    "title": "The Singing, Soaring Lark",
+    "readingTime": 12
+  },
+  {
+    "id": "066",
+    "title": "The Goose-Girl",
+    "readingTime": 12
+  },
+  {
+    "id": "067",
+    "title": "The Young Giant",
+    "readingTime": 16
+  },
+  {
+    "id": "068",
+    "title": "The Elves",
+    "readingTime": 10
+  },
+  {
+    "id": "069",
+    "title": "The King of the Golden Mountain",
+    "readingTime": 13
+  },
+  {
+    "id": "070",
+    "title": "The Raven",
+    "readingTime": 12
+  },
+  {
+    "id": "071",
+    "title": "The Peasant's Wise Daughter",
+    "readingTime": 8
+  },
+  {
+    "id": "072",
+    "title": "The Three Little Birds",
+    "readingTime": 8
+  },
+  {
+    "id": "073",
+    "title": "The Water of Life",
+    "readingTime": 12
+  },
+  {
+    "id": "074",
+    "title": "The Spirit in the Bottle",
+    "readingTime": 9
+  },
+  {
+    "id": "075",
+    "title": "The Devil's Sooty Brother",
+    "readingTime": 7
+  },
+  {
+    "id": "076",
+    "title": "Bearskin",
+    "readingTime": 10
+  },
+  {
+    "id": "077",
+    "title": "The Willow-Wren and the Bear",
+    "readingTime": 5
+  },
+  {
+    "id": "078",
+    "title": "Sweet Porridge",
+    "readingTime": 2
+  },
+  {
+    "id": "079",
+    "title": "Wise Folks",
+    "readingTime": 8
+  },
+  {
+    "id": "080",
+    "title": "Stories About Snakes",
+    "readingTime": 3
+  },
+  {
+    "id": "081",
+    "title": "The Poor Miller's Boy and the Cat",
+    "readingTime": 8
+  },
+  {
+    "id": "082",
+    "title": "The Two Travellers",
+    "readingTime": 21
+  },
+  {
+    "id": "083",
+    "title": "Hans the Hedgehog",
+    "readingTime": 11
+  },
+  {
+    "id": "084",
+    "title": "The Shroud",
+    "readingTime": 2
+  },
+  {
+    "id": "085",
+    "title": "The Skilful Huntsman",
+    "readingTime": 12
+  },
+  {
+    "id": "086",
+    "title": "The Two Kings' Children",
+    "readingTime": 18
+  },
+  {
+    "id": "087",
+    "title": "The Cunning Little Tailor",
+    "readingTime": 7
+  },
+  {
+    "id": "088",
+    "title": "The Bright Sun Brings It to Light",
+    "readingTime": 3
+  },
+  {
+    "id": "089",
+    "title": "The Blue Light",
+    "readingTime": 9
+  },
+  {
+    "id": "090",
+    "title": "The Wilful Child",
+    "readingTime": 1
+  },
+  {
+    "id": "091",
+    "title": "The King's Son Who Feared Nothing",
+    "readingTime": 11
+  },
+  {
+    "id": "092",
+    "title": "Donkey Cabbages",
+    "readingTime": 14
+  },
+  {
+    "id": "093",
+    "title": "The Old Woman in the Wood",
+    "readingTime": 5
+  },
+  {
+    "id": "094",
+    "title": "The Three Brothers",
+    "readingTime": 4
+  },
+  {
+    "id": "095",
+    "title": "The Devil and His Grandmother",
+    "readingTime": 7
+  },
+  {
+    "id": "096",
+    "title": "Ferdinand the Faithful",
+    "readingTime": 10
+  },
+  {
+    "id": "097",
+    "title": "The Iron Stove",
+    "readingTime": 12
+  },
+  {
+    "id": "098",
+    "title": "The Four Skilful Brothers",
+    "readingTime": 9
+  },
+  {
+    "id": "099",
+    "title": "One-Eye, Two-Eyes, and Three-Eyes",
+    "readingTime": 14
+  },
+  {
+    "id": "100",
+    "title": "Fair Katrinelje and Pif-Paf-Poltrie",
+    "readingTime": 2
+  },
+  {
+    "id": "101",
+    "title": "The Shoes That Were Danced to Pieces",
+    "readingTime": 8
+  },
+  {
+    "id": "102",
+    "title": "The Six Servants",
+    "readingTime": 14
+  },
+  {
+    "id": "103",
+    "title": "The White Bride and the Black One",
+    "readingTime": 8
+  },
+  {
+    "id": "104",
+    "title": "Iron John",
+    "readingTime": 17
+  },
+  {
+    "id": "105",
+    "title": "The Three Black Princesses",
+    "readingTime": 4
+  },
+  {
+    "id": "106",
+    "title": "Knoist and His Three Sons",
+    "readingTime": 1
+  },
+  {
+    "id": "107",
+    "title": "The Maid of Brakel",
+    "readingTime": 1
+  },
+  {
+    "id": "108",
+    "title": "Domestic Servants",
+    "readingTime": 1
+  },
+  {
+    "id": "109",
+    "title": "The Lambkin and the Little Fish",
+    "readingTime": 4
+  },
+  {
+    "id": "110",
+    "title": "Simeli Mountain",
+    "readingTime": 5
+  },
+  {
+    "id": "111",
+    "title": "Going A-Travelling",
+    "readingTime": 3
+  },
+  {
+    "id": "112",
+    "title": "The Donkey",
+    "readingTime": 7
+  },
+  {
+    "id": "113",
+    "title": "The Ungrateful Son",
+    "readingTime": 1
+  },
+  {
+    "id": "114",
+    "title": "The Turnip",
+    "readingTime": 6
+  },
+  {
+    "id": "115",
+    "title": "The Old Man Made Young Again",
+    "readingTime": 3
+  },
+  {
+    "id": "116",
+    "title": "The Three Sluggards",
+    "readingTime": 2
+  },
+  {
+    "id": "117",
+    "title": "The Shepherd Boy",
+    "readingTime": 2
+  },
+  {
+    "id": "118",
+    "title": "The Star-Money",
+    "readingTime": 2
+  },
+  {
+    "id": "119",
+    "title": "The Stolen Farthings",
+    "readingTime": 2
+  },
+  {
+    "id": "120",
+    "title": "Brides On Their Trial",
+    "readingTime": 1
+  },
+  {
+    "id": "121",
+    "title": "The Sparrow and His Four Children",
+    "readingTime": 5
+  },
+  {
+    "id": "122",
+    "title": "Snow-White and Rose-Red",
+    "readingTime": 13
+  },
+  {
+    "id": "123",
+    "title": "The Glass Coffin",
+    "readingTime": 12
+  },
+  {
+    "id": "124",
+    "title": "Lazy Harry",
+    "readingTime": 5
+  },
+  {
+    "id": "125",
+    "title": "The Griffin",
+    "readingTime": 15
+  },
+  {
+    "id": "126",
+    "title": "Strong Hans",
+    "readingTime": 14
+  },
+  {
+    "id": "127",
+    "title": "The Hut in the Forest",
+    "readingTime": 10
+  },
+  {
+    "id": "128",
+    "title": "The Goose-Girl at the Well",
+    "readingTime": 20
+  },
+  {
+    "id": "129",
+    "title": "Eve's Various Children",
+    "readingTime": 4
+  },
+  {
+    "id": "130",
+    "title": "The Nix of the Mill-Pond",
+    "readingTime": 11
+  },
+  {
+    "id": "131",
+    "title": "The Poor Boy in the Grave",
+    "readingTime": 7
+  },
+  {
+    "id": "132",
+    "title": "The True Sweetheart",
+    "readingTime": 14
+  },
+  {
+    "id": "133",
+    "title": "The Spindle, The Shuttle, and The Needle",
+    "readingTime": 6
+  },
+  {
+    "id": "134",
+    "title": "The Sea-Hare",
+    "readingTime": 7
+  },
+  {
+    "id": "135",
+    "title": "The Master-Thief",
+    "readingTime": 16
+  },
+  {
+    "id": "136",
+    "title": "The Drummer",
+    "readingTime": 19
+  },
+  {
+    "id": "137",
+    "title": "The Ear of Corn",
+    "readingTime": 2
+  },
+  {
+    "id": "138",
+    "title": "Old Rinkrank",
+    "readingTime": 4
+  },
+  {
+    "id": "139",
+    "title": "The Crystal Ball",
+    "readingTime": 6
+  },
+  {
+    "id": "140",
+    "title": "Maid Maleen",
+    "readingTime": 10
+  },
+  {
+    "id": "141",
+    "title": "St. Joseph in the Forest",
+    "readingTime": 6
+  },
+  {
+    "id": "142",
+    "title": "The Twelve Apostles",
+    "readingTime": 3
+  },
+  {
+    "id": "143",
+    "title": "The Rose",
+    "readingTime": 1
+  },
+  {
+    "id": "144",
+    "title": "Poverty and Humility Lead to Heaven",
+    "readingTime": 3
+  },
+  {
+    "id": "145",
+    "title": "God's Food",
+    "readingTime": 2
+  },
+  {
+    "id": "146",
+    "title": "The Three Green Twigs",
+    "readingTime": 5
+  },
+  {
+    "id": "147",
+    "title": "The Aged Mother",
+    "readingTime": 2
+  },
+  {
+    "id": "148",
+    "title": "The Hazel-Branch",
+    "readingTime": 2
+  },
+  {
+    "id": "149",
+    "title": "Cat and Mouse in Partnership",
+    "readingTime": 5
+  },
+  {
+    "id": "150",
+    "title": "The Wonderful Musician",
+    "readingTime": 6
+  },
+  {
+    "id": "151",
+    "title": "The Pack of Ragamuffins",
+    "readingTime": 5
+  },
+  {
+    "id": "152",
+    "title": "The Straw, the Coal, and the Bean",
+    "readingTime": 3
+  },
+  {
+    "id": "153",
+    "title": "The Fisherman and His Wife",
+    "readingTime": 16
+  },
+  {
+    "id": "154",
+    "title": "The Mouse, the Bird, and the Sausage",
+    "readingTime": 4
+  },
+  {
+    "id": "155",
+    "title": "The Bremen Town-Musicians",
+    "readingTime": 7
+  },
+  {
+    "id": "156",
+    "title": "The Louse and the Flea",
+    "readingTime": 3
+  },
+  {
+    "id": "157",
+    "title": "The Tailor in Heaven",
+    "readingTime": 4
+  },
+  {
+    "id": "158",
+    "title": "The Wedding of Mrs. Fox (two stories)",
+    "readingTime": 4
+  },
+  {
+    "id": "159",
+    "title": "The Elves",
+    "readingTime": 4
+  },
+  {
+    "id": "160",
+    "title": "Herr Korbes",
+    "readingTime": 2
+  },
+  {
+    "id": "161",
+    "title": "The Dog and the Sparrow",
+    "readingTime": 7
+  },
+  {
+    "id": "162",
+    "title": "Frederick and Catherine",
+    "readingTime": 13
+  },
+  {
+    "id": "163",
+    "title": "The Little Peasant",
+    "readingTime": 11
+  },
+  {
+    "id": "164",
+    "title": "Jorinda and Joringel",
+    "readingTime": 5
+  },
+  {
+    "id": "165",
+    "title": "The Wolf and the Man",
+    "readingTime": 3
+  },
+  {
+    "id": "166",
+    "title": "The Wolf and the Fox",
+    "readingTime": 4
+  },
+  {
+    "id": "167",
+    "title": "The Fox and the Cat",
+    "readingTime": 2
+  },
+  {
+    "id": "168",
+    "title": "Clever Grethel",
+    "readingTime": 5
+  },
+  {
+    "id": "169",
+    "title": "The Death of the Little Hen",
+    "readingTime": 4
+  },
+  {
+    "id": "170",
+    "title": "Gambling Hansel",
+    "readingTime": 5
+  },
+  {
+    "id": "171",
+    "title": "The Fox and the Geese",
+    "readingTime": 2
+  },
+  {
+    "id": "172",
+    "title": "The Poor Man and the Rich Man",
+    "readingTime": 9
+  },
+  {
+    "id": "173",
+    "title": "Old Hildebrand",
+    "readingTime": 7
+  },
+  {
+    "id": "174",
+    "title": "Doctor Knowall",
+    "readingTime": 4
+  },
+  {
+    "id": "175",
+    "title": "The Jew Among Thorns",
+    "readingTime": 9
+  },
+  {
+    "id": "176",
+    "title": "The Flail from Heaven",
+    "readingTime": 2
+  },
+  {
+    "id": "177",
+    "title": "The Three Army-Surgeons",
+    "readingTime": 6
+  },
+  {
+    "id": "178",
+    "title": "The Seven Swabians",
+    "readingTime": 6
+  },
+  {
+    "id": "179",
+    "title": "The Three Apprentices",
+    "readingTime": 6
+  },
+  {
+    "id": "180",
+    "title": "The Lazy Spinner",
+    "readingTime": 4
+  },
+  {
+    "id": "181",
+    "title": "The Fox and the Horse",
+    "readingTime": 3
+  },
+  {
+    "id": "182",
+    "title": "The Lord's Animals and the Devil's",
+    "readingTime": 2
+  },
+  {
+    "id": "183",
+    "title": "The Beam",
+    "readingTime": 2
+  },
+  {
+    "id": "184",
+    "title": "The Old Beggar-Woman",
+    "readingTime": 1
+  },
+  {
+    "id": "185",
+    "title": "Odds and Ends",
+    "readingTime": 2
+  },
+  {
+    "id": "186",
+    "title": "The Story of Schlauraffen Land",
+    "readingTime": 2
+  },
+  {
+    "id": "187",
+    "title": "The Ditmarsch Tale of Wonders",
+    "readingTime": 2
+  },
+  {
+    "id": "188",
+    "title": "A Riddling Tale",
+    "readingTime": 1
+  },
+  {
+    "id": "189",
+    "title": "The Wise Servant",
+    "readingTime": 2
+  },
+  {
+    "id": "190",
+    "title": "The Peasant in Heaven",
+    "readingTime": 2
+  },
+  {
+    "id": "191",
+    "title": "Lean Lisa",
+    "readingTime": 3
+  },
+  {
+    "id": "192",
+    "title": "Sharing Joy and Sorrow",
+    "readingTime": 2
+  },
+  {
+    "id": "193",
+    "title": "The Willow-Wren",
+    "readingTime": 6
+  },
+  {
+    "id": "194",
+    "title": "The Sole",
+    "readingTime": 2
+  },
+  {
+    "id": "195",
+    "title": "The Bittern and the Hoopoe",
+    "readingTime": 2
+  },
+  {
+    "id": "196",
+    "title": "The Owl",
+    "readingTime": 5
+  },
+  {
+    "id": "197",
+    "title": "The Moon",
+    "readingTime": 4
+  },
+  {
+    "id": "198",
+    "title": "The Duration of Life",
+    "readingTime": 3
+  },
+  {
+    "id": "199",
+    "title": "Death's Messengers",
+    "readingTime": 3
+  },
+  {
+    "id": "200",
+    "title": "Master Pfriem",
+    "readingTime": 8
+  },
+  {
+    "id": "201",
+    "title": "The Little Folks' Presents",
+    "readingTime": 5
+  },
+  {
+    "id": "202",
+    "title": "The Giant and the Tailor",
+    "readingTime": 4
+  },
+  {
+    "id": "203",
+    "title": "The Nail",
+    "readingTime": 2
+  },
+  {
+    "id": "204",
+    "title": "The Hare and the Hedgehog",
+    "readingTime": 7
+  },
+  {
+    "id": "205",
+    "title": "The Peasant and the Devil",
+    "readingTime": 2
+  },
+  {
+    "id": "206",
+    "title": "The Crumbs on the Table",
+    "readingTime": 1
+  },
+  {
+    "id": "207",
+    "title": "The Grave-Mound",
+    "readingTime": 8
+  },
+  {
+    "id": "208",
+    "title": "The Boots of Buffalo-Leather",
+    "readingTime": 8
+  },
+  {
+    "id": "209",
+    "title": "The Golden Key",
+    "readingTime": 1
+  }
+]
